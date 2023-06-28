@@ -1,0 +1,113 @@
+html,
+body {
+    top: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.nav-txt {
+    color: #032D60;
+}
+
+.nav-btn {
+    color: white;
+    padding: 10px 24px;
+    background-color: #2E844A;
+    border-radius: 5px;
+}
+
+.nav-btn:hover {
+    background-color: #1C3326;
+}
+
+@media screen and (width< 1280px) {
+    .nav-btn {
+        padding: 5px 12px;
+    }
+}
+
+.blue-btn {
+    color: white;
+    padding: 14px 30px;
+    background-color: #0176D3;
+    border-radius: 5px;
+}
+
+.blue-btn:hover {
+    background-color: #032d60;
+}
+
+.blue-border-btn {
+    background-color: white;
+    color: #0176D3;
+    border: 2px solid #0176D3;
+    border-radius: 5px;
+    padding: 12px 30px;
+}
+
+.blue-border-btn:hover {
+    color: #000000;
+    border: 2px solid #000000;
+    background-color: #EAECFE;
+}
+
+.white-btn {
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    padding: 10px 28px;
+    font-family: 'Avalon-Demi', sans-serif;
+}
+
+.white-btn:hover {
+    color: #032E61;
+    border: 2px solid #ffffff;
+    background-color: #ffffff;
+}
+
+.white-btn svg path {
+    stroke: #ffffff;
+}
+
+.white-btn:hover svg path {
+    stroke: #032E61;
+}
+
+.taper {
+    background-color: #032D60;
+}
+
+@font-face {
+    font-family: 'Avalon-Demi';
+    src: url('/assets/fonts/Avalon-Demi.ttf') format('truetype');
+    font-weight: bold;
+}
+
+.head {
+    font-family: 'Avalon-Demi', sans-serif;
+    font-weight: bold;
+}
+
+.card-head {
+    font-family: 'Avalon-Demi', sans-serif;
+}
+
+.chat-font {
+    font-family: 'Avalon-Demi', sans-serif;
+    font-weight: bold;
+}
+
+.mobile-menu {
+    display: none;
+}
+
+.mobile-menu-open {
+    display: block;
+}
+
+#cross {
+    display: none;
+}
