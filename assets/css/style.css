@@ -108,6 +108,270 @@ body {
     display: block;
 }
 
+.products_menu {
+    display: none;
+}
+
+.products_menu-open {
+    display: block;
+}
+
+.customer_360_menu {
+    display: none;
+}
+
+.customer_360_menu-open {
+    display: block;
+}
+
+.partner_menu {
+    display: none;
+}
+
+.partner_menu-open {
+    display: block;
+}
+
+.customer_success_menu {
+    display: none;
+}
+
+.customer_success_menu-open {
+    display: block;
+}
+
+.industries_menu {
+    display: none;
+}
+
+.industries_menu-open {
+    display: block;
+}
+
+.learning_menu {
+    display: none;
+}
+
+.learning_menu-open {
+    display: block;
+}
+
+.learning_trailhead_menu {
+    display: none;
+}
+
+.learning_trailhead_menu-open {
+    display: block;
+}
+
+.learning_customer_stories_menu {
+    display: none;
+}
+
+.learning_customer_stories_menu-open {
+    display: block;
+}
+
+.learning_events_menu {
+    display: none;
+}
+
+.learning_events_menu-open {
+    display: block;
+}
+
+.learning_by_topic_menu {
+    display: none;
+}
+
+.learning_by_topic_menu-open {
+    display: block;
+}
+
+.learning_by_role_menu {
+    display: none;
+}
+
+.learning_by_role_menu-open {
+    display: block;
+}
+
+.learning_by_content_menu {
+    display: none;
+}
+
+.learning_by_content_menu-open {
+    display: block;
+}
+
+.learning_blogs_menu {
+    display: none;
+}
+
+.learning_sucess_center_menu {
+    display: none;
+}
+
+.learning_sucess_center_menu-open {
+    display: block;
+}
+
+.learning_blogs_menu-open {
+    display: block;
+}
+
+.support_menu {
+    display: none;
+}
+
+.support_menu-open {
+    display: block;
+}
+
+.support_documentation_menu {
+    display: none;
+}
+
+.support_documentation_menu-open {
+    display: block;
+}
+
+.support_communities_menu {
+    display: none;
+}
+
+.support_communities_menu-open {
+    display: block;
+}
+
+.support_plans_menu {
+    display: none;
+}
+
+.support_plans_menu-open {
+    display: block;
+}
+
+.support_account_menu {
+    display: none;
+}
+
+.support_account_menu-open {
+    display: block;
+}
+
+.company_menu {
+    display: none;
+}
+
+.company_menu-open {
+    display: block;
+}
+
+.company_about_menu {
+    display: none;
+}
+
+.company_about_menu-open {
+    display: block;
+}
+
+.company_values_menu {
+    display: none;
+}
+
+.company_values_menu-open {
+    display: block;
+}
+
+.company_impact_menu {
+    display: none;
+}
+
+.company_impact_menu-open {
+    display: block;
+}
+
+.company_careers_menu {
+    display: none;
+}
+
+.company_careers_menu-open {
+    display: block;
+}
+
+.company_news_menu {
+    display: none;
+}
+
+.company_news_menu-open {
+    display: block;
+}
+
+.company_brands_menu {
+    display: none;
+}
+
+.company_brands_menu-open {
+    display: block;
+}
+
+.salesforceplus_menu {
+    display: none;
+}
+
+.salesforceplus_menu-open {
+    display: block;
+}
+
+.salesforceplus_original_menu {
+    display: none;
+}
+
+.salesforceplus_original_menu-open {
+    display: block;
+}
+
+.salesforceplus_dreamforce_menu {
+    display: none;
+}
+
+.salesforceplus_dreamforce_menu-open {
+    display: block;
+}
+
+.salesforceplus_list_menu {
+    display: none;
+}
+
+.salesforceplus_list_menu-open {
+    display: block;
+}
+
+.login_menu{
+    display: none;
+}
+
+.login_menu-open{
+    display: block;
+}
+
+.contact_menu{
+    display: none;
+}
+
+.contact_menu-open{
+    display: block;
+}
+
+.region_menu{
+    display: none;
+}
+
+.region_menu-open{
+    display: block;
+}
+
 #cross {
     display: none;
 }
